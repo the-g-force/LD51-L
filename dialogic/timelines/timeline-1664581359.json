@@ -1,0 +1,97 @@
+{
+	"events": [
+		{
+			"emit_signal": "reset",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "stop",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hi!"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am the narrator."
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Every ten seconds you die (well, once you start living)."
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you want to be..."
+		},
+		{
+			"choice": "Rich",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "play",
+			"event_id": "dialogic_040"
+		},
+		{
+			"change_timeline": "timeline-1664581889.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Middle class",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "play",
+			"event_id": "dialogic_040"
+		},
+		{
+			"change_timeline": "timeline-1664581897.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Poor",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "play",
+			"event_id": "dialogic_040"
+		},
+		{
+			"change_timeline": "timeline-1664581884.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"custom_slot": "",
+			"event_id": "dialogic_026",
+			"use_default_slot": true
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664581359.json",
+		"name": "begining"
+	}
+}

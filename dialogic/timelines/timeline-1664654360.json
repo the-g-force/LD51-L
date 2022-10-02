@@ -1,0 +1,53 @@
+{
+	"events": [
+		{
+			"emit_signal": "stop_timer",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "WHOA!! Ok  you just got brutally killed by a duck!"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Would you like to play again?"
+		},
+		{
+			"choice": "YUP.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664655732.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "NO WAY!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664733130.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664654360.json",
+		"name": "Death by duck"
+	}
+}

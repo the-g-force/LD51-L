@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/LD51_Narrator.ogg-0d316f56a6a1b35ac2a8cded5097625a.oggstr"
+
+[deps]
+
+source_file="res://LD51_Narrator.ogg"
+dest_files=[ "res://.import/LD51_Narrator.ogg-0d316f56a6a1b35ac2a8cded5097625a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,396 @@
+{
+	"events": [
+		{
+			"emit_signal": "start_timer",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are born."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you want be a..."
+		},
+		{
+			"choice": "...Duke",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ok... So..."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you know what \"duke\" means"
+		},
+		{
+			"choice": "Probably an insult",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -NO, YOU IDIOT!!! IT'S A TYPE OF A DUCK"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581298.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ha! Sure."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -GArgAgRGRRGrAgrAGRGRAgraGRAgrAGRagRaRagrAGRAgrargRaGG!!!!!!!!!"
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "I dunno, sounds like a type of duck",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -Exactly!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581298.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "WAIT, WHAT!!??!?"
+		},
+		{
+			"choice": "O< -GArgAgRGRRGrAgrAGRGRAgraGRAgrAGRagRaRagrAGRAgrargRaGG!!!!!!!!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "O< -GArgAgRGRRGrAgrAGRGRAgraGRAgrAGRagRaRagrAGRAgrargRaGG!!!!!!!!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "O< -GArgAgRGRRGrAgrAGRGRAgraGRAgrAGRagRaRagrAGRAgrargRaGG!!!!!!!!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "...Noble",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You win the nobel prize!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581298.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I thought I was a noble!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nope! NO BELL."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581298.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Ok what? Is it:"
+		},
+		{
+			"choice": "No bell",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< - All three!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why is there a duck?"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< - I was feeling murderous, so I came here."
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "nobel",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -All three!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why is there a duck?"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -I was feeling murderous, so I came here."
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "or noble",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -All three!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why is there a duck?"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -I was feeling murderous, so I came here."
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "...Prince",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -Ooh! A prince! Yummy!"
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664581889.json",
+		"name": "Rich"
+	}
+}

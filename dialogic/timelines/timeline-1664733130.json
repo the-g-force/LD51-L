@@ -1,0 +1,148 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 4,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why are you still here?"
+		},
+		{
+			"emit_signal": "duck",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " O< -QUACK."
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O-"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O< -MAY I PLEEZE EAT YOU."
+		},
+		{
+			"choice": "Sure, why not?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Why in all caps?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O- ..."
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< ..."
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O- ?"
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -Quack."
+		},
+		{
+			"character": "character-1664581298.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Much better."
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you want to play again?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664581359.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "end",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -Well, to bad."
+		},
+		{
+			"change_timeline": "timeline-1664654360.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664733130.json",
+		"name": "no"
+	}
+}

@@ -1,0 +1,149 @@
+{
+	"events": [
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ok, so... Umm... The Duck is still here."
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -yup."
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I'm thinking about calling THE eradicator, Should I?"
+		},
+		{
+			"choice": "YES.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -Noo! Wait! If you call him I can't eat you again!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ding!"
+		},
+		{
+			"character": "character-1664656338.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1664656338.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -NOOoOooOoOooOoooOoOOoooooOoOOoo!"
+		},
+		{
+			"character": "character-1664656338.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is this working? "
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 5
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O< -BLEP. I DEAD."
+		},
+		{
+			"character": "character-1664654151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O- *"
+		},
+		{
+			"emit_signal": "blep",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664656338.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1664656338.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...What?"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you want to play again?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664581359.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664733130.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664655732.json",
+		"name": "duck beginning"
+	}
+}

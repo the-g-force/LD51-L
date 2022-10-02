@@ -1,0 +1,167 @@
+{
+	"events": [
+		{
+			"emit_signal": "start_timer",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are born."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When you get older you begin to consider some jobs."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What job do you want?"
+		},
+		{
+			"choice": "Farmer",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664583346.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Begger",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You get a few scraps of bread but it isn't enough..."
+		},
+		{
+			"change_timeline": "timeline-1664582889.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Shepherd",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1664583346.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "None",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your parents beg you to reconider because you are very low on money "
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What job do you want?"
+		},
+		{
+			"choice": "Begger",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You get a few scraps of bread but it isn't enough..."
+		},
+		{
+			"change_timeline": "timeline-1664582889.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "slave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are worked to death and don't servive a week"
+		},
+		{
+			"change_timeline": "timeline-1664582889.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664581884.json",
+		"name": "Poor"
+	}
+}

@@ -1,0 +1,454 @@
+{
+	"events": [
+		{
+			"emit_signal": "start_timer",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are born."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soon you're old enough to go to school"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You make friends, and soon you are ready to get a job"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So you leave your parents in search of work"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What job do you want?"
+		},
+		{
+			"choice": "Priest",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You go to seminary and learn all there is to know about your faith"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your teacher feels you are prepared to spread the faith."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What do you want to do with your knowledge?"
+		},
+		{
+			"choice": "Start a sunday school",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You start a sunday school."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But you find very few people are coming."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What do you do"
+		},
+		{
+			"choice": "Put up posters",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It works like a charm!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "soon you have thirty-two people coming!"
+		},
+		{
+			"choice": "give up",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your parents and teachers don't seem to happy about your choice"
+		},
+		{
+			"change_timeline": "timeline-1664628482.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Preach to those of other religons",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You go out and preach!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But not every one likes it and a mob chases you out of town"
+		},
+		{
+			"change_timeline": "timeline-1664628482.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Solider",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You join the town guard in hopes of adventure!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Soon your commander comes in and asks for volunteers  for an attack on a enemy camp! do you join?"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You decide to stay home and wait for another opertunity."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Soon your commander comes in and asks for volunteers for a raid on a den of cut throats and thieves! do you join?"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You decide to stay home and wait for another opertunity."
+		},
+		{
+			"change_timeline": "timeline-1664628482.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You go of to do battle!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But in all the fighting a cutthroat cuts your throat..."
+		},
+		{
+			"change_timeline": "timeline-1664582889.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You go of to do battle!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you return victorious!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "next your commander comes in and asks for volunteers for a raid on a den of cutthroats and thieves! do you join?"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You decide to stay home and wait for another opertunity."
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it never comes."
+		},
+		{
+			"change_timeline": "timeline-1664628482.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You go of to do battle!"
+		},
+		{
+			"emit_signal": "point_get",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1664581312.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But in all the fighting a cutthroat cuts your throat..."
+		},
+		{
+			"change_timeline": "timeline-1664582889.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1664581897.json",
+		"name": "middle class"
+	}
+}
