@@ -55,7 +55,7 @@
 
 			],
 			"portrait": "",
-			"question": "Do you know what \"duke\" means"
+			"question": "Do you know what \"duke\" means?"
 		},
 		{
 			"choice": "Probably an insult",
@@ -190,7 +190,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You win the nobel prize!"
+			"text": "You win the Nobel Prize!"
 		},
 		{
 			"emit_signal": "point_get",
@@ -223,7 +223,7 @@
 
 			],
 			"portrait": "",
-			"question": "Ok what? Is it:"
+			"question": "Ok, what? Is it:"
 		},
 		{
 			"choice": "No bell",

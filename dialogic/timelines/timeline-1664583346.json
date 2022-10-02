@@ -161,7 +161,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "so you are forced to give all your kids to an orphanage"
+			"text": "You are forced to give all your kids to an orphanage."
 		},
 		{
 			"change_timeline": "timeline-1664628482.json",
@@ -182,7 +182,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "you have a child."
+			"text": "You have a child."
 		},
 		{
 			"emit_signal": "point_get",
@@ -192,7 +192,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "you and your husband and your child grow older until..."
+			"text": "You and your husband and your child grow older until..."
 		},
 		{
 			"change_timeline": "timeline-1664630304.json",
@@ -213,7 +213,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "you have two children."
+			"text": "You have two children."
 		},
 		{
 			"emit_signal": "point_get",
@@ -277,7 +277,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "so you are forced to give all your kids to an orphinage"
+			"text": "So you are forced to give all your kids to an orphanage."
 		},
 		{
 			"change_timeline": "timeline-1664628482.json",
@@ -298,7 +298,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "your wife has a child."
+			"text": "Your wife has a child."
 		},
 		{
 			"emit_signal": "point_get",
@@ -333,7 +333,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "your wife has two children."
+			"text": "Your wife has two children."
 		},
 		{
 			"emit_signal": "point_get",

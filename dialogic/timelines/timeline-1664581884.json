@@ -95,7 +95,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your parents beg you to reconider because you are very low on money "
+			"text": "Your parents beg you to reconsider because you are very low on money. "
 		},
 		{
 			"emit_signal": "point_get",
@@ -146,7 +146,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You are worked to death and don't servive a week"
+			"text": "You are worked to death and don't survive a week."
 		},
 		{
 			"change_timeline": "timeline-1664582889.json",

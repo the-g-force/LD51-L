@@ -22,7 +22,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Soon you're old enough to go to school"
+			"text": "Soon you're old enough to go to school."
 		},
 		{
 			"emit_signal": "point_get",
@@ -32,7 +32,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You make friends, and soon you are ready to get a job"
+			"text": "You make friends, and soon you are ready to get a job."
 		},
 		{
 			"emit_signal": "point_get",
@@ -42,7 +42,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "So you leave your parents in search of work"
+			"text": "You leave your parents in search of work."
 		},
 		{
 			"emit_signal": "point_get",
@@ -72,7 +72,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You go to seminary and learn all there is to know about your faith"
+			"text": "You go to seminary and learn all there is to know about your faith."
 		},
 		{
 			"emit_signal": "point_get",
@@ -112,7 +112,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You start a sunday school."
+			"text": "You start a Sunday school."
 		},
 		{
 			"emit_signal": "point_get",
@@ -135,7 +135,7 @@
 
 			],
 			"portrait": "",
-			"question": "What do you do"
+			"question": "What do you do?"
 		},
 		{
 			"choice": "Put up posters",
@@ -162,7 +162,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "soon you have thirty-two people coming!"
+			"text": "Soon you have thirty-two people coming!"
 		},
 		{
 			"choice": "give up",
@@ -179,7 +179,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your parents and teachers don't seem to happy about your choice"
+			"text": "Your parents and teachers don't seem too happy about your choice."
 		},
 		{
 			"change_timeline": "timeline-1664628482.json",
@@ -213,7 +213,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "But not every one likes it and a mob chases you out of town"
+			"text": "But not every one likes it and a mob chases you out of town."
 		},
 		{
 			"change_timeline": "timeline-1664628482.json",
@@ -223,7 +223,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Solider",
+			"choice": "Soldier",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -250,7 +250,7 @@
 
 			],
 			"portrait": "",
-			"question": "Soon your commander comes in and asks for volunteers  for an attack on a enemy camp! do you join?"
+			"question": "Soon your commander comes in and asks for volunteers for an attack on a enemy camp! Do you join?"
 		},
 		{
 			"choice": "No",
@@ -267,7 +267,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You decide to stay home and wait for another opertunity."
+			"text": "You decide to stay home and wait for another opportunity."
 		},
 		{
 			"emit_signal": "point_get",
@@ -280,7 +280,7 @@
 
 			],
 			"portrait": "",
-			"question": "Soon your commander comes in and asks for volunteers for a raid on a den of cut throats and thieves! do you join?"
+			"question": "Soon your commander comes in and asks for volunteers for a raid on a den of cutthroats and thieves! Do you join?"
 		},
 		{
 			"choice": "No",
@@ -297,7 +297,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You decide to stay home and wait for another opertunity."
+			"text": "You decide to stay home and wait for another opportunity."
 		},
 		{
 			"change_timeline": "timeline-1664628482.json",
@@ -318,7 +318,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You go of to do battle!"
+			"text": "You go off to do battle!"
 		},
 		{
 			"emit_signal": "point_get",
@@ -328,7 +328,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "But in all the fighting a cutthroat cuts your throat..."
+			"text": "But in all the fighting a cutthroat cuts your throat...."
 		},
 		{
 			"change_timeline": "timeline-1664582889.json",
@@ -352,7 +352,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You go of to do battle!"
+			"text": "You go off to do battle!"
 		},
 		{
 			"emit_signal": "point_get",
@@ -375,7 +375,7 @@
 
 			],
 			"portrait": "",
-			"question": "next your commander comes in and asks for volunteers for a raid on a den of cutthroats and thieves! do you join?"
+			"question": "Next, your commander comes in and asks for volunteers for a raid on a den of cutthroats and thieves! Do you join?"
 		},
 		{
 			"choice": "No",
@@ -392,7 +392,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You decide to stay home and wait for another opertunity."
+			"text": "You decide to stay home and wait for another opportunity."
 		},
 		{
 			"emit_signal": "point_get",
@@ -423,7 +423,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You go of to do battle!"
+			"text": "You go off to do battle!"
 		},
 		{
 			"emit_signal": "point_get",
@@ -433,7 +433,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "But in all the fighting a cutthroat cuts your throat..."
+			"text": "But in all the fighting a cutthroat cuts your throat...."
 		},
 		{
 			"change_timeline": "timeline-1664582889.json",

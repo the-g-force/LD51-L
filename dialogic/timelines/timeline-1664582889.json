@@ -8,7 +8,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You die a premature death"
+			"text": "You die a premature death."
 		},
 		{
 			"character": "character-1664581312.json",
@@ -25,6 +25,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"emit_signal": "end",
+			"event_id": "dialogic_040"
 		},
 		{
 			"choice": "Yes",

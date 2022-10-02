@@ -8,7 +8,7 @@
 			"character": "character-1664581312.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You die a peaceful death  surrounded by friends and family"
+			"text": "You die a peaceful death surrounded by friends and family."
 		},
 		{
 			"character": "character-1664581312.json",
@@ -20,7 +20,7 @@
 			"question": "Do you want to play again?"
 		},
 		{
-			"choice": "no",
+			"choice": "No",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -31,7 +31,7 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "yes",
+			"choice": "Yes",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
